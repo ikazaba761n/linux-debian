@@ -2,6 +2,7 @@
 
 
 set terminal pngcairo size 1280,960
+#作業ディレクトリ　./　に　test.png　のグラフ画像PNGを出力する
 #set output './test.png'
 
 set output './test.png'
